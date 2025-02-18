@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: navy;
+    padding: 9px;
+}
+
+header a {
+    color: white;
+}
+
+header b {
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+main h1 {
+    background-color: lightblue;
+    color: navy;
+    text-align:center;
+    font-weight: normal;
+    padding: 10px;
+}
+
+footer {
+    background-color: burlywood;
+    padding: 5px;
+}
+
+footer p {
+    background-color: white;
+    padding: 2px;
+    font-family: sans-serif;
+}
+
+nav a {
+    background-color: navy;
+    margin: 20px;
+    padding: 8px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    margin: 20px;
+}
+
+.prodykt {
+    background-color: white;
+    color: navy;
+    border: 2px solid navy;
+}
+
+select {
+    padding: 10px;
+    color: royalblue;
+    border-radius: 7px;
+    border: 2px solid navy;
+    font-size: 17px;
+}
+
+select option {
+    color: white;
+    background-color: midnightblue;
+}
+
+.prodykti {
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.zagolovok {
+    color: blue;
+    font-size: 30px;
+}
+
+.knopka {
+    color: navy;
+    border: 2px solid navy;
+    text-decoration: none;
+    padding: 7px;
+}
